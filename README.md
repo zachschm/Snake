@@ -5,4 +5,4 @@ First ever game created in any programming language and first ever completed pyt
 
 Sample Image:
 
-<img width="597" alt="Screen Shot 2023-02-20 at 3 27 33 PM" src="https://user-images.githubusercontent.com/102704926/220201056-a644088d-e5e0-4ed4-a027-97a38387c001.png">
+<img width="595" alt="Screen Shot 2023-02-20 at 3 43 00 PM" src="https://user-images.githubusercontent.com/102704926/220202800-13d79dc3-e026-424a-bcbd-738117eb3f87.png">
